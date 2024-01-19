@@ -15,15 +15,22 @@
     "up": "drizzle-kit up:pg"
   },
   "dependencies": {
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.0",
     "dotenv": "^16.3.1",
     "drizzle-kit": "^0.20.13",
     "drizzle-orm": "^0.29.3",
+    "lucide-react": "^0.312.0",
     "next": "14.1.0",
+    "next-themes": "^0.2.1",
     "postgres": "^3.4.3",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "tailwind-merge": "^2.2.0",
+    "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
+    "@catppuccin/tailwindcss": "^0.1.6",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
