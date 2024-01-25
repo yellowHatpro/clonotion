@@ -1,2 +1,4 @@
 import appBanner from "./app_banner.png"
-export {appBanner}
+import clonationText from "./clonation✨.png"
+import clonationLogo from "./clonation_logo.png"
+export {appBanner, clonationText, clonationLogo}
